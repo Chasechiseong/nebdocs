@@ -2,6 +2,15 @@
 
 You can take a quick look for all the Nebulas weekly reports here.
 
+- Weekly Report #64 (01/15/2019) -[Development : Deployed Nebulas Nova on the testnet](https://medium.com/nebulasio/nebulas-bi-weekly-development-commits-64-ff633d06833a)
+- Weekly Report #63 (01/01/2019) -[Community : Nebulas NOVA testnet released, public testing begin!](https://medium.com/nebulasio/nebulas-bi-weekly-community-dynamics-63-63938b990745)
+- Weekly Report #62 (12/31/2018) -[Development : Ready to deploy Nebulas Nova on the testnet](https://medium.com/nebulasio/nebulas-bi-weekly-development-commits-62-dbd919193806)
+- Weekly Report #61 (12/25/2018) -[Nebulas Wiki User Guide Was Released](https://medium.com/nebulasio/nebulas-bi-weekly-community-dynamics-61-e209af7a1ef2)
+- Weekly Report #60 (12/18/2018) -[Development : finished the implementation and integration testing of the on-chain NR algorithm (Mainnet)](https://medium.com/nebulasio/nebulas-bi-weekly-development-commits-60-62557de76f08)
+- Weekly Report #59 (12/11/2018) -[Community : Nebuals initiated Nebulas Wiki Bounty Program](https://medium.com/nebulasio/nebulas-bi-weekly-community-dynamics-59-f580bdc554e2)
+- Weekly Report #58 (12/04/2018) -[Development : Integration testing of NBRE](https://medium.com/nebulasio/nebulas-bi-weekly-development-commits-58-9a9988b5e330)
+- Weekly Report #57 (11/27/2018) -[Announcing : Nebulas Technical Committee (NTC) Meeting Minutes](https://medium.com/nebulasio/nebulas-bi-weekly-community-dynamic-57-5c2bd5e55123)
+- Weekly Report #56 (11/20/2018) -[Development : Nebulas Blockchain Runtime Environment (NBRE)](https://medium.com/nebulasio/nebulas-bi-weekly-development-commits-56-7e460344860)
 - Weekly Report #55 (11/12/2018) -[Community : PCTA Launch Press Conference Successfully Held](https://medium.com/nebulasio/nebulas-bi-weekly-community-dynamics-55-1dd219375baf)
 - Weekly Report #54 (11/05/2018) -[Development : Adding ATP Transfer Support](https://medium.com/nebulasio/nebulas-bi-weekly-development-commits-update-54-402bf9f34f2f)
 - Weekly Report #53 (10/29/2018) -[Community : Nebulas Joined PCTA As One of Its First Partners](https://medium.com/nebulasio/nebulas-bi-weekly-community-dynamics-53-3b6fb628e472)
